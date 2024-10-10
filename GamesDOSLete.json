@@ -16,6 +16,15 @@
       ],
       "uploadDate": "04/10/2024",
       "fileSize": "48.8GB"
+    },
+
+{
+      "title": "Bread & Fred",
+      "uris": [
+        "magnet:?xt=urn:btih:06c15898b881c66f27abfc6dc2866268f69c535b&dn=Bread.&.Fred.v05.07.2023.rar&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce"
+      ],
+      "uploadDate": "10/10/2024",
+      "fileSize": "140.71"
     }
   ]
 }
